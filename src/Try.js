@@ -9,3 +9,4 @@ function Try() {
     )
 }
 export default Try
+// "proxy": "https://xycoders.herokuapp.com/api/"
