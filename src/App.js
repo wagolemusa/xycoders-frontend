@@ -20,7 +20,7 @@ function App() {
   const { user } = useContext(Context)
   return (
     <div className="App">
-      <Router>
+      <ub>
         <Topbar/>
         <Switch>
           <Route exact path="/">
